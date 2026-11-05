@@ -1,0 +1,12 @@
+# In-app keyboard library (com.narde.keyboard)
+
+Build artifacts and local config — never commit:
+
+```
+build/
+.gradle/
+.kotlin/
+local.properties
+*.iml
+.idea/
+```
